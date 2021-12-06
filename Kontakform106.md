@@ -5,7 +5,7 @@ modified: 2021-12-06T23:02:22+08:00
 
 # Kontakform106
 
-Timestamp
-Nama
-Email
-Pesan
+Timestamp :
+Nama :
+Email :
+Pesan :
